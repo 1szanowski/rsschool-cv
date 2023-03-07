@@ -1,4 +1,7 @@
-# rsschool-cv
+
+https://1szanowski.github.io/rsschool-cv/
+=======
 
 
-https://github.com/1szanowski/rsschool-cv/blob/gh-pages/cv.md
+
+https://1szanowski.github.io/rsschool-cv/
